@@ -1,9 +1,7 @@
 - 👋 Ola, eu sou @bruninTheCreator
 - 👀 estou interessado em buscar experiencia no ramo da programação
 - 🌱 Atualmete eu estou aprendendo
-- 📫 contato: bru.dev826@gmail.com
-- 😄 Pronouns: HELI/COPTERO
-- ⚡ Fun fact: EU GOSTO DE TYLER, THE CREATOR
+- 📫 contato: brunootavlemos@gmail.com
 
 <!---
 bruninTheCreator/bruninTheCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
