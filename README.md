@@ -98,6 +98,4 @@ My goal is to grow as a **backend and automation-focused developer**, working on
 ---
 
 ## 📫 Contact
-@brunootavlemos@gmail.com
-
 📧 Email: **brunootavlemos@gmail.com**
