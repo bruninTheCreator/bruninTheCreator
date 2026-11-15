@@ -112,5 +112,5 @@ I'm particularly interested in **backend engineering, software architecture, ent
 ---
 
 <p align="center">
-  <sub>Understand. Engineer. Build. Improve.</sub>
+  <sub>Think like a child. Execute like a scientist.</sub>
 </p>
