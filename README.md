@@ -24,8 +24,6 @@ My technical background combines programming, application development, databases
 
 I'm particularly interested in **backend engineering, software architecture, enterprise systems, and the relationship between technology and business processes**.
 
-> Understand the system. Design the solution. Build with purpose.
-
 ## $ ls ./technical_skills
 
 ### Programming Languages & Web Technologies
