@@ -1,101 +1,277 @@
-# 👋 Hi, I'm Bruno Lemos (@bruninTheCreator)
+bruninTheCreator
 
-**Python Developer | Process Automation | OCR | Data & Productivity Tools**
+$ whoami
+Bruno Lemos
+$ role
+Software Developer | Backend & Systems Engineering
+$ focus
+Full-Stack Development · Automation · Systems Integration
+$ current_status
+Building software, exploring systems and solving real problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=50FA7B&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Development;Process+Automation;Systems+Integration;Reverse+Engineering;Software+Analysis+%26+Security" />
+</p>
 
-I’m a developer in training focused on **automation, data analysis, and building practical tools that solve real operational problems**. I work mainly with **Python, SQL, and OCR** to create systems that improve productivity, reduce manual work, and support better decision-making.
+⸻
 
----
+$ cat about_me.txt
 
-## 🚀 Areas of Interest
+I’m a software developer in training focused on backend engineering, full-stack development, systems architecture, and process automation.
 
-I’m especially interested in:
+I work with different technologies to build applications, integrate systems, process data, and improve complex workflows.
 
-- Process automation  
-- Intelligent data extraction (OCR)  
-- Enterprise workflows  
-- Building tools that actually get used  
+My experience includes developing web applications, desktop tools, enterprise systems, REST APIs, database-driven solutions, and automation pipelines.
 
----
+I work across frontend and backend technologies, with particular interest in Python, JavaScript, React, Java, and SQL.
 
-## 🧠 What I Work With
+Beyond application development, I explore reverse engineering, software internals, cybersecurity, and systems analysis.
 
-- **Python** (automation, orchestration, OCR, tooling)  
-- **SQL** (queries, validation, data manipulation)  
-- **Git & GitHub**  
-- **Automation & OCR tools**  
-  - `pytesseract`  
-  - `pyautogui`  
-- JSON-based persistence and workflow control  
+I enjoy understanding how systems work, identifying technical problems, and developing solutions that are practical, reliable, and maintainable.
 
----
+Understand the system. Design the architecture. Build the solution.
 
-## 🧩 Featured Projects
+⸻
 
-### 🔹 `.bot` — Office Automation Assistant
+$ ls ./technical_stack
 
-A tool in active development focused on **reducing repetitive screen-based tasks** through OCR, pattern detection, and automated action execution.
+Programming Languages
 
-**Core features:**
+Frontend Development
 
-- Screen capture + Tesseract OCR  
-- Pattern recognition  
-- Automated execution of actions  
-- Persistent memory using JSON  
-- Workflow-oriented task control  
-- Optional integration with OpenAI  
+Backend Development
 
-Built to support **task organization, productivity, and workflow automation**.
+Databases & Enterprise Systems
 
----
+Automation, OCR & Data Processing
 
-### 🔹 POPR — Process Automation for SAP
+Development Tools & Environment
 
-An internal enterprise automation system designed to **streamline SAP-driven workflows** and reduce manual operational checks.
+⸻
 
-**What it does:**
+$ ls ./engineering_domains
 
-- Automates SAP GUI transactions (MB52, ME2M)  
-- Validates stock and purchase orders  
-- Generates Excel reports  
-- Sends conditional email notifications  
-- Applies business rules using Python-based logic  
+engineering/
+├── backend_development/
+├── frontend_development/
+├── software_architecture/
+├── database_engineering/
+├── systems_integration/
+├── process_automation/
+├── reverse_engineering/
+├── cybersecurity/
+└── data_processing/
 
-POPR is designed to **reduce manual SAP verification processes and improve operational accuracy in enterprise environments**.
+⸻
 
----
+$ find ./projects -type d
 
-## 🧰 Tech Stack
+01 — Ajustes de Proteção
 
-- Python  
-- SQL  
-- SAP GUI Scripting  
-- Excel automation  
-- OCR (Tesseract)  
-- JSON & local persistence  
-- Git / GitHub  
+Enterprise Workflow & Configuration Validation
 
----
+A system designed to organize operational configuration workflows, integrating frontend interfaces, backend services, databases, and automated validation.
 
-## 🎯 What I'm Building Toward
+* Structured workflows for configuration management.
+* Comparison between expected and collected data.
+* Automated validation through business rules.
+* Database modeling and historical tracking.
+* API-oriented service integration.
+* Operational monitoring and status management.
 
-I’m developing experience in:
+React React Query JavaScript Python Oracle APEX Oracle Database SQL PL/SQL
 
-- Automation systems  
-- Enterprise process tooling  
-- Data-driven validation  
-- Real-world workflow orchestration  
+Status: In development | Private project
 
-My goal is to grow as a **backend and automation-focused developer**, working on systems that improve how organizations operate.
+02 — PAERD
 
----
+Execution Records & Evidence Management
 
-## 🌍 Open to
+An enterprise application for managing execution records, supporting evidence, reporting, and document archiving.
 
-- Remote opportunities  
-- International teams  
-- Automation and backend-focused roles  
+* Structured data registration.
+* Evidence and attachment management.
+* Search and reporting workflows.
+* Download tracking and document archiving.
+* Role-based access management.
 
----
+Oracle APEX PL/SQL SQL JavaScript
 
-## 📫 Contact
-📧 Email: **brunootavlemos@gmail.com**
+Status: Advanced MVP | Private project
+
+03 — CB | Centralização de Baterias
+
+Document Processing & Data Consolidation
+
+A Python desktop application designed to automate document processing, information extraction, and validation.
+
+* Automated ZIP and document processing.
+* Structured information extraction from DOCX files.
+* Data validation and consolidation.
+* Spreadsheet generation.
+* PDF conversion and document processing.
+* Local execution without a centralized database.
+
+Python PySide6 Pandas python-docx Excel pywin32
+
+Status: Functional
+
+04 — Estoque Mecânico
+
+Inventory & Component Management
+
+A system focused on managing mechanical components, kits, and inventory identification.
+
+* Component and kit registration.
+* Item composition management.
+* Customized component support.
+* Automatic identification code generation.
+* Label generation for inventory organization.
+
+Java Object-Oriented Programming Database Design
+
+Status: In development
+
+05 — .bot
+
+Desktop Automation Assistant
+
+A desktop automation assistant designed to reduce repetitive tasks through visual recognition and automated execution.
+
+* Screen capture and OCR processing.
+* Text and pattern recognition.
+* Automated action execution.
+* JSON-based persistence.
+* Workflow-oriented task management.
+* Optional OpenAI integration.
+
+Python Tesseract PyAutoGUI JSON OpenAI API
+
+Status: Active development
+
+06 — SICAMS
+
+Automated Material Consultation
+
+A system concept focused on automating material consultations and inventory verification.
+
+* Structured material lookup.
+* Inventory availability validation.
+* Automated consultation workflows.
+* Enterprise data retrieval.
+* Integration-oriented architecture.
+
+Python SQL SAP REST API
+
+Status: MVP planning
+
+07 — POPR
+
+Process Orchestration for SAP
+
+An enterprise automation concept focused on streamlining SAP-related requests and reservation workflows.
+
+* Process orchestration.
+* Automated information retrieval.
+* Business rule application.
+* Workflow tracking.
+* Reduction of repetitive operational checks.
+
+Python SAP GUI Scripting SQL Excel Automation
+
+Status: Planned development
+
+08 — Comunica Automação
+
+Operational Communication & Monitoring Portal
+
+A portal designed to centralize operational occurrences and improve communication between teams.
+
+* Occurrence registration.
+* Centralized information.
+* Operational monitoring.
+* Dashboard visualization.
+* Workflow visibility and tracking.
+
+HTML CSS JavaScript Oracle APEX
+
+Status: Prototype
+
+⸻
+
+$ ls ./research_and_exploration
+
+Reverse Engineering
+
+* Software behavior analysis.
+* Application structure investigation.
+* Understanding existing implementations.
+* Technical exploration of software internals.
+* Codebase and architecture investigation.
+
+Cybersecurity
+
+* Security fundamentals.
+* Application and system analysis.
+* Vulnerability research concepts.
+* Attack surface understanding.
+* Defensive security practices.
+
+Software Engineering
+
+* Backend architecture.
+* API design and integration.
+* Database modeling.
+* Object-oriented programming.
+* UML and system documentation.
+* Debugging and technical investigation.
+
+These are ongoing areas of technical exploration, study, and practical experimentation.
+
+⸻
+
+$ cat private_work.log
+
+[INFO] Not all technical activities are represented
+       in this public portfolio.
+[INFO] Some work and project details are intentionally
+       omitted from public documentation.
+[STATUS] Confidentiality respected.
+
+⸻
+
+$ cat development.log
+
+Currently expanding my knowledge in:
+
+* Advanced backend development.
+* Full-stack application architecture.
+* API design and system integration.
+* Database engineering.
+* Reverse engineering.
+* Cybersecurity.
+* Software architecture and design patterns.
+* Enterprise application development.
+
+⸻
+
+$ git status
+
+Always learning, building, investigating, and improving.
+
+My goal is to become a developer capable of understanding complex systems, designing reliable architectures, and building software that solves real operational problems.
+
+⸻
+
+$ contact --info
+
+<p align="center">
+  <a href="mailto:brunootavlemos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/bruninTheCreator">
+    <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+<p align="center">
+  <sub>Understand. Engineer. Build. Improve.</sub>
+</p>
